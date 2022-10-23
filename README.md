@@ -1,16 +1,21 @@
-# untitled5
+# Note App using Bloc
 
-A new Flutter project.
+### Notes App is a simple application devloped by flutter 
 
-## Getting Started
+## Tools used
 
-This project is a starting point for a Flutter application.
+- sqflite as local db
+- Bloc(cubit) As State Management
 
-A few resources to get you started if this is your first Flutter project:
+## Main Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Dark/Light Mode
+- Add new note
+- Edit note
+- Delete note
+- Change the view of notes list
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Main Screens
+
+![smartmockups_l9lxzsg0](https://user-images.githubusercontent.com/87647184/197396017-eb382a02-6d8e-4584-a653-d2cca4010add.jpg)
+![Group 1](https://user-images.githubusercontent.com/87647184/197396445-7e956ae8-e9d3-4a01-8d3d-e91b54536b8e.png)
